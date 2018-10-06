@@ -24,7 +24,7 @@
                   v-model="password">
         </div>
         <div class="input">
-          <label for="confirm-password">Confirm Password</label>
+          <label for="confirm-password">Confirm Passwords</label>
           <input
                   type="password"
                   id="confirm-password"
